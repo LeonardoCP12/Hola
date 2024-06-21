@@ -1,0 +1,101 @@
+cod_reclamo,cod_representante,cod_pedido,cod_seguimiento,cod_tipo_reclamo,cod_nivel_urgencia,cod_estado_reclamo,comentario,fecha_suceso,fecha_reclamo
+1,1,1,1,C,M,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-17,2024-04-03
+2,2,2,2,E,A,D,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-19,2024-03-23
+3,3,3,3,F,B,D,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-16,2024-04-06
+4,4,4,4,G,B,A,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-04-02,2024-03-19
+5,5,5,5,A,M,A,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-25,2024-04-01
+6,6,6,6,E,A,C,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-17,2024-03-19
+7,7,7,7,F,A,A,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-31,2024-03-18
+8,8,8,8,B,M,A,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-03-06,2024-03-31
+9,9,9,9,F,M,D,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-04-01,2024-04-05
+10,10,10,10,F,M,C,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-13,2024-04-03
+11,11,11,11,A,M,C,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-05,2024-04-04
+12,12,12,12,D,A,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-04-03,2024-03-10
+13,13,13,13,D,A,C,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-22,2024-04-05
+14,14,14,14,G,A,B,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-05,2024-03-27
+15,15,15,15,B,B,C,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-03-12,2024-03-28
+16,16,16,16,C,B,B,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-03-19,2024-04-01
+17,17,17,17,E,A,C,El detergente SuperClean recibido tiene el envase roto y parte del contenido se ha derramado.,2024-03-20,2024-03-17
+18,18,18,18,G,M,B,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-03-11,2024-03-08
+19,19,19,19,B,M,D,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-04-02,2024-03-21
+20,20,20,20,G,B,B,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-10,2024-03-20
+21,21,21,21,B,A,B,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-13,2024-03-30
+22,22,22,22,C,B,A,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-16,2024-03-23
+23,23,23,23,G,B,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-31,2024-03-27
+24,24,24,24,D,M,A,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-15,2024-03-09
+25,25,25,25,C,B,B,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-13,2024-04-07
+26,26,26,26,A,M,D,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-03-05,2024-03-13
+27,27,27,27,E,B,A,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-04-01,2024-03-13
+28,28,28,28,B,M,C,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-19,2024-03-12
+29,29,29,29,B,A,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-06,2024-03-12
+30,30,30,30,D,B,D,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-15,2024-03-17
+31,31,31,31,E,B,A,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-03-30,2024-03-18
+32,32,32,32,A,M,C,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-31,2024-03-10
+33,33,33,33,E,M,B,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-04-02,2024-03-29
+34,34,34,34,A,A,C,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-12,2024-03-22
+35,35,35,35,C,M,D,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-24,2024-03-15
+36,36,36,36,B,M,C,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-24,2024-04-02
+37,37,37,37,G,M,C,Las estanterías metálicas recibidas están oxidadas y algunas piezas están dañadas.,2024-03-20,2024-03-21
+38,38,38,38,F,B,B,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-31,2024-03-19
+39,39,39,39,C,A,A,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-04-02,2024-04-04
+40,40,40,40,D,A,D,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-15,2024-04-06
+41,41,41,41,B,A,A,Las estanterías metálicas recibidas están oxidadas y algunas piezas están dañadas.,2024-03-14,2024-03-14
+42,42,42,42,E,A,B,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-22,2024-03-29
+43,43,43,43,B,A,B,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-13,2024-03-15
+44,44,44,44,E,A,A,El detergente SuperClean recibido tiene el envase roto y parte del contenido se ha derramado.,2024-03-29,2024-03-27
+45,45,45,45,F,A,B,El detergente SuperClean recibido tiene el envase roto y parte del contenido se ha derramado.,2024-03-17,2024-03-29
+46,46,46,46,C,M,B,Las estanterías metálicas recibidas están oxidadas y algunas piezas están dañadas.,2024-03-07,2024-03-31
+47,47,47,47,D,A,B,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-03-31,2024-03-25
+48,48,48,48,B,M,A,Las estanterías metálicas recibidas están oxidadas y algunas piezas están dañadas.,2024-03-20,2024-03-19
+49,49,49,49,F,M,C,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-09,2024-03-14
+50,50,50,50,C,M,B,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-11,2024-03-27
+51,51,51,51,E,B,C,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-27,2024-03-26
+52,52,52,52,E,A,B,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-03-26,2024-04-07
+53,53,53,53,B,M,B,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-30,2024-03-17
+54,54,54,54,A,B,C,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-30,2024-04-01
+55,55,55,55,F,M,C,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-03-17,2024-03-21
+56,56,56,56,C,M,C,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-16,2024-03-30
+57,57,57,57,C,A,A,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-09,2024-03-20
+58,58,58,58,G,B,B,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-04,2024-04-01
+59,59,59,59,G,B,A,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-29,2024-03-08
+60,60,60,60,D,M,C,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-09,2024-03-14
+61,61,61,61,E,A,B,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-11,2024-04-02
+62,62,62,62,D,A,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-13,2024-04-04
+63,63,63,63,D,B,C,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-08,2024-04-05
+64,64,64,64,C,A,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-25,2024-03-13
+65,65,65,65,E,A,A,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-08,2024-03-18
+66,66,66,66,C,A,D,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-13,2024-03-13
+67,67,67,67,C,A,B,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-09,2024-03-18
+68,68,68,68,E,B,B,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-31,2024-03-11
+69,69,69,69,B,B,D,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-20,2024-03-16
+70,70,70,70,A,B,C,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-26,2024-03-09
+71,71,71,71,A,B,D,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-18,2024-03-31
+72,72,72,72,F,A,B,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-03-15,2024-03-08
+73,73,73,73,G,B,D,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-03-26,2024-03-11
+74,74,74,74,A,M,C,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-12,2024-03-30
+75,75,75,75,B,A,C,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-17,2024-03-15
+76,76,76,76,B,A,A,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-04-03,2024-03-24
+77,77,77,77,G,B,D,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-26,2024-03-10
+78,78,78,78,F,M,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-25,2024-03-11
+79,79,79,79,E,A,C,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-04,2024-03-29
+80,80,80,80,A,M,D,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-03-11,2024-03-26
+81,81,81,81,E,B,B,Las pechugas enteras de pollos frescas recibidas están en mal estado y los colorantes naturales Chroma no se incluyeron en el pedido.,2024-03-29,2024-03-17
+82,82,82,82,B,B,C,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-12,2024-03-13
+83,83,83,83,D,M,D,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-30,2024-04-04
+84,84,84,84,G,A,A,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-31,2024-03-26
+85,85,85,85,B,M,B,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-10,2024-03-18
+86,86,86,86,D,B,A,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-27,2024-03-28
+87,87,87,87,B,A,A,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-03-23,2024-04-01
+88,88,88,88,D,B,B,El kit de herramientas eléctricas recibido está incompleto y falta el taladro.,2024-03-11,2024-03-20
+89,89,89,89,G,B,C,El muslo de pollo congelado recibido está congelado en exceso y presenta cristales de hielo.,2024-03-08,2024-03-27
+90,90,90,90,F,B,B,El detergente SuperClean recibido tiene el envase roto y parte del contenido se ha derramado.,2024-03-14,2024-04-06
+91,91,91,91,A,B,D,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-23,2024-03-22
+92,92,92,92,C,A,B,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-04,2024-03-12
+93,93,93,93,C,A,C,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-21,2024-03-31
+94,94,94,94,B,A,A,El detergente SuperClean recibido tiene el envase roto y parte del contenido se ha derramado.,2024-03-20,2024-03-12
+95,95,95,95,E,M,C,Las piernas con encuentros frescas recibidas están vencidas y los muslos de pollos frescos tienen un olor extraño.,2024-03-14,2024-03-29
+96,96,96,96,A,A,C,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-07,2024-03-08
+97,97,97,97,C,A,B,Las alas de pollo congeladas recibidas están mal cortadas y no presentan el tamaño adecuando.,2024-03-12,2024-04-02
+98,98,98,98,G,A,D,La silla ergonómica recibida tiene un defecto en el respaldo y el teléfono multifuncional no funciona correctamente.,2024-04-02,2024-03-12
+99,99,99,99,F,B,B,Las estanterías metálicas recibidas están oxidadas y algunas piezas están dañadas.,2024-03-27,2024-03-21
+100,100,100,100,E,A,B,Los guantes de látex recibidos son de una talla incorrecta y la indumentaria de protección está desgarrada.,2024-03-15,2024-04-07
